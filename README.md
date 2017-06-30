@@ -1,4 +1,4 @@
-# sai: simple arch installer
+# sai: simpl    e arch installer
 
 It is released under GPL2, and places all installation files in `/sai`.
 
